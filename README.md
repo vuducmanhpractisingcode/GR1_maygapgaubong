@@ -68,4 +68,13 @@ There are 6 movements:
 
  - [Schematic of ESP32](https://docs.espressif.com/projects/esp-hardware-design-guidelines/en/latest/esp32c3/schematic-checklist.html)
  - [Arduino IDE for ESP32](https://randomnerdtutorials.com/projects-esp32/)
- - [ESP32-C3 pinouts](https://docs.espressif.com/projects/esp-idf/en/v5.0/esp32c3/hw-reference/esp32c3/user-guide-devkitm-1.html) 
+ - [ESP32-C3 pinouts](https://docs.espressif.com/projects/esp-idf/en/v5.0/esp32c3/hw-reference/esp32c3/user-guide-devkitm-1.html)
+
+## Instructor for project
+[Nguyen Duc Tien](https://soict.hust.edu.vn/ths-nguyen-duc-tien.html)
+
+## Contact
+Author: [Vu Duc Manh]
+Email: [vuducmanhpractisingcode@gmail.com]
+GitHub/Website: [https://github.com/vuducmanhpractisingcode]
+
