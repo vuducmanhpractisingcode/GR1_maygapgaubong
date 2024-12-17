@@ -74,7 +74,7 @@ There are 6 movements:
 [Nguyen Duc Tien](https://soict.hust.edu.vn/ths-nguyen-duc-tien.html)
 
 ## Contact
-Author: [Vu Duc Manh]
-Email: [vuducmanhpractisingcode@gmail.com]
-GitHub/Website: [https://github.com/vuducmanhpractisingcode]
+- Author: Vu Duc Manh
+- Email: vuducmanhpractisingcode@gmail.com
+- GitHub/Website: https://github.com/vuducmanhpractisingcode
 
